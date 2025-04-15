@@ -1,0 +1,22 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories (if you use npm/yarn)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build files (if you use a build process)
+dist/
+build/
+
+# Log files
+*.log
